@@ -1,0 +1,20 @@
+.first {
+    color: red;
+    font-size: 100px;
+    margin: 50px;
+    text-align: center;
+    padding: 50px;
+    background-color: aqua;
+  }
+  
+  /* style for second heading*/
+  #second {
+    color: rgb(37, 36, 36);
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif
+  }
+  
+  #link{
+      text-decoration:  none;
+      color: black
+  }
